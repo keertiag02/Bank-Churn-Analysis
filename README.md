@@ -1,8 +1,9 @@
 # Bank-Churn-Analysis
+Cleaned the dataset, applied PivotTable methods and statistical tests to analyze the dataset.
 
 Analyzed the dataset and concluded that following actions should be taken to reduce the customer churn : 
 
-1. Since, females are chrned more, so, bank must provide family-focused programs, and financial literacy programs.
+1. Since, females are churned more, so, bank must provide family-focused programs, and financial literacy programs.
 2. Provide exclusive offers for senior citizens.
 3. Provide savings account with better interest rates.
 4. Provide credit crads with reward points.
